@@ -8,8 +8,8 @@ public class TP02Ex01 {
         //Alunos: Luiz Gustavo Leal Cortez
         //Alunos: Breno Santos
 
-       // 1. Entrar com dois valores via teclado, onde o segundo valor deverá ser maior que o primeiro.
-         // Caso contrário solicitar novamente apenas o segundo valor.
+        // 1. Entrar com dois valores via teclado, onde o segundo valor deverá ser maior que o primeiro.
+        // Caso contrário solicitar novamente apenas o segundo valor.
 
         double v1;
         double v2;
