@@ -8,9 +8,9 @@ public class TP02Ex09 {
 
     //Alunos: Luiz Gustavo Leal Cortez
     //Alunos: Breno Santos
-    //Entrar via teclado com doze valores e armazená-los em uma matriz de ordem 3x4. Após a
-    //digitação dos valores solicitar uma constante multiplicativa, que deverá multiplicar cada
-    //valor matriz e armazenar o resultado na própria matriz, nas posições correspondentes.
+    //Entrar com uma matriz de ordem MxN, onde a ordem também será escolhida pelo usuário,
+    //sendo que no máximo 10x10. A matriz não precisa ser quadrática. Após a digitação dos
+    //elementos, calcular e exibir a matriz transposta.
 
 
     {
